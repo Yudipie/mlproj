@@ -1,0 +1,13 @@
+tenure_bucket,contract,error_rate,n
+49+,Month-to-month,0.4375,64
+13-24,Month-to-month,0.4267515923566879,157
+25-48,Month-to-month,0.4144736842105263,152
+0-12,Month-to-month,0.3875,400
+0-12,One year,0.25,36
+49+,One year,0.2109375,128
+13-24,One year,0.16129032258064516,31
+25-48,One year,0.11428571428571428,105
+25-48,Two year,0.0425531914893617,47
+49+,Two year,0.027131782945736434,258
+0-12,Two year,0.0,13
+13-24,Two year,0.0,18

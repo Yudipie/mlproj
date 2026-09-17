@@ -1,0 +1,12 @@
+INFO:     127.0.0.1:65422 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65423 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61927 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61927 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62404 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64543 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50398 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50398 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50398 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50398 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50398 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52625 - "GET /health HTTP/1.1" 200 OK
